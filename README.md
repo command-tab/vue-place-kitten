@@ -32,6 +32,6 @@ Vue project:
 ## Props
 
 | Prop   | Required | Type   | Default | Description  |
-|--------|----------|--------|------------------------|
+| ------ | -------- | ------ | ------- | ------------ |
 | width  | No       | Number | 200     | Image width  |
 | height | No       | Number | 200     | Image height |
